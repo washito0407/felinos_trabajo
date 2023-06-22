@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class tigre_siberiano {
+public class tigre_siberiano extends tigres{
 }

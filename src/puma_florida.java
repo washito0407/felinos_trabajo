@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class puma_florida {
+public class puma_florida extends pumas{
 }

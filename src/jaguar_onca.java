@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class jaguar_onca {
+public class jaguar_onca extends jaguares{
 }

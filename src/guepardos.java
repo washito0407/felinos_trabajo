@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class guepardos {
+public class guepardos extends tipos_felinos{
 }

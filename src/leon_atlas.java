@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class leon_atlas {
+public class leon_atlas extends leones{
 }
