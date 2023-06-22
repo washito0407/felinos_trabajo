@@ -1,8 +1,10 @@
-# felinos_trabajo
+# Felinos_trabajo
+
+
 Este es el codigo sobre la herencia de felinos y el programa que recoga 5 datos en este caso de felinos.
 
 
-Nombres: Washington Villares y Melani Barrera
+# Nombres: Washington Villares y Melani Barrera
 
 
 Capturas del código:
